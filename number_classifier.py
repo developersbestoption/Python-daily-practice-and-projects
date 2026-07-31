@@ -33,7 +33,7 @@ class Main:
              last_digit=num%10
              sum_of_last_two_digits+=last_digit
              count+=1
-          if not sum_of_last_two_digits % 4 :
+          if not sum_of_last_two_digits % 4:
               print(f"{number} can be divisible by 4")
           else:
               print(f"{number} can't be divisible by 4")
