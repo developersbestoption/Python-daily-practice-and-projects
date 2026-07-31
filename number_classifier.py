@@ -25,7 +25,6 @@ class Main:
        else: 
            print(f"{number} can't be divisible by 3")
      #-------for knowing the wether is divisible by a 4 or not , last two digits should be divide by 4
-
    def div_4(self,num):
           count=0
           number=num
