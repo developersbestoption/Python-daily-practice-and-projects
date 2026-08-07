@@ -9,4 +9,4 @@ else:
     if new == number:
          print("perfect number")
     else:
-         print("not a perfect number")'''
+         print("not a perfect number")
