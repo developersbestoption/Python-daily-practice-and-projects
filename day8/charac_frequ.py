@@ -1,4 +1,4 @@
-a=input("ebter the word : ")
+a=input("ebter the  word : ")
 seen=" "
 for i in range(len(a)):
         if a[i] in seen:
