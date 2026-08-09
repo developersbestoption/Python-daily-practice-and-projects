@@ -5,3 +5,4 @@ for i in a:
         continue
     print(i ,a.count(i))
     seen.append(i)
+'''finding the frequency of a elements in array'''
