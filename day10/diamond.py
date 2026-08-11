@@ -1,1 +1,1 @@
-print("diamond")
+print("diamond pattern program")
